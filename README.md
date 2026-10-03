@@ -1,49 +1,104 @@
-<!-- Typing animation header -->
 <div align="center">
-  <h1 id="typing-header"></h1>
-  <script>
-    const text = "Full-Stack Developer | AI Enthusiast | YouTuber";
-    const el = document.getElementById("typing-header");
-    let i = 0;
-    function type() {
-      if (i <= text.length) {
-        el.textContent = text.slice(0, i);
-        i++;
-        setTimeout(type, 120);
-      }
-    }
-    type();
-  </script>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Dilip+Kumar+S+P;Full-Stack+Developer;AI+Enthusiast+%7C+Tech+Creator;Building+End-to-End+Applications" alt="Typing SVG" />
 </div>
 
-<!-- GitHub Stats -->
+<p align="center">
+  <a href="mailto:dilipatdk7@gmail.com"><img src="https://img.shields.io/badge/Email-dilipatdk7%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/dk7-7"><img src="https://img.shields.io/badge/GitHub-dk7--7-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+👋 Hi! I'm **Dilip Kumar S P** – a passionate full-stack developer and AI enthusiast.
+
+- 🚀 I thrive on building end-to-end applications and automating intelligent workflows.
+- 💻 Experienced across the full stack: from interactive UIs with **React** to scalable backend services with **Node.js** & **Spring Boot**.
+- 🧠 Solid foundations in **C++**, **Python**, **Java**, and **JavaScript**.
+- ⚙️ Love streamlining processes with **n8n** and deploying reproducible environments with **Docker**.
+- 🎥 Creating educational content & sharing technical insights on **YouTube**.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" alt="C++" />
+      <br><sub><b>C++</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" />
+      <br><sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" />
+      <br><sub><b>Java</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" />
+      <br><sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript" />
+      <br><sub><b>TypeScript</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
+      <br><sub><b>React</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" />
+      <br><sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=spring" width="40" height="40" alt="Spring Boot" />
+      <br><sub><b>Spring Boot</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" />
+      <br><sub><b>Docker</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
+      <br><sub><b>Git</b></sub>
+    </td>
+  </tr>
+</table>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Automation-n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Framework-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Containers-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+---
+
+### 📊 GitHub Activity & Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dk7-7&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats">
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dk7-7&theme=dark&hide=html,css,scss,cpp,java,python,typescript,javascript&count_private=true&hide_border=true" alt="Top Languages">
+  <a href="https://github.com/dk7-7">
+    <img src="https://github-readme-stats.vercel.app/api?username=dk7-7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Dilip's GitHub Stats" />
+  </a>
+  <a href="https://github.com/dk7-7">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dk7-7&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  </a>
 </div>
 
-<!-- Tech Stack Badges -->
 <div align="center">
-  <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/-React-61dafb?style=for-the-badge&logo=react&logoColor=white" alt="React"></a>
-  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"></a>
-  <a href="https://spring.io/"><img src="https://img.shields.io/badge/-Spring%20Boot-B00000?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"></a>
-  <a href="https://www.cplusplus.com/"><img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a>
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
-  <a href="https://www.oracle.com/java/"><img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"></a>
-  <a href="https://n8n.io/"><img src="https://img.shields.io/badge/-n8n-E99909?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"></a>
-  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
-  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
+  <a href="https://github.com/dk7-7">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dk7-7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  </a>
 </div>
 
-<!-- About Me -->
-<div>
-  <h2>About Me</h2>
-  <p>
-    👋 Hi! I’m <strong>Dilip Kumar S P</strong> – a passionate full‑stack developer and AI enthusiast.  
-    I thrive on building end‑to‑end applications, automating workflows with n8n, and sharing my learnings on YouTube.  
-    I enjoy tackling challenges across the stack, from front‑end UI/UX in React to robust back‑end services in Node.js and Spring Boot.  
-    With a solid foundation in C++, Python, Java, and JavaScript, I love blending performance‑oriented code with modern frameworks.  
-    When I’m not coding, you’ll find me experimenting with new AI tools, creating educational content, or exploring Docker for efficient deployments.
-  </p>
-</div>
+---
+
+<p align="center">
+  <i>⭐️ Thanks for stopping by! Feel free to connect and collaborate.</i>
+</p>
