@@ -16,8 +16,7 @@
 - 🚀 I thrive on building end-to-end applications and automating intelligent workflows.
 - 💻 Experienced across the full stack: from interactive UIs with **React** to scalable backend services with **Node.js** & **Spring Boot**.
 - 🧠 Solid foundations in **C++**, **Python**, **Java**, and **JavaScript**.
-- ⚙️ Love streamlining processes with **n8n** and deploying reproducible environments with **Docker**.
-- 🎥 Creating educational content & sharing technical insights on **YouTube**.
+- ⚙️ Streamlining processes with **n8n** and deploying reproducible environments with **Docker**.
 
 ---
 
